@@ -1,4 +1,4 @@
-# Second Page
+# Ver oferta de capacitación
 
 Here are a couple more examples of markdown elements. Here we have a blockquote:
 
