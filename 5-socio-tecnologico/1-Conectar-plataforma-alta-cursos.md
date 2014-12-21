@@ -1,29 +1,22 @@
 # Conectar a la plataforma y dar de alta cursos
+INICIAR SESIÓN O REGISTRO DE NUEVO USUARIO
 
-Here are a couple more examples of markdown elements. Here we have a blockquote:
+Para accesar como socio tecnológico o empersa de TIC. Primero se debe iniciar sesión, o bien, darse de alta como nuevo usuario.
 
-> Don't think about making art, just get it done. Let everyone else decide if it's good or bad, whether they love it or hate it. While they are deciding, make even more art.
-> Andy Warhol 
+![home](../images/5-2.JPG)
 
-> Holii
+Escriba su correo electrónico y contraseña para iniciar sesión.
 
+![home](../images/5-2-1.JPG)
 
-And a numbered list:
+DAR DE ALTA CURSOS
 
-1. Numbered Item 1
-2. Numbered Item 2
-3. Numbered Item 3
+Una vez que haya iniciado sesión,aparecerá la siguiente patalla. De click en el boton "Nuevo curso".
 
-And a code block (with syntax highlighting).
+![home](../images/5-2-2.JPG)
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+Llene la información necesaria para crear el perfil del nuevo curso. Escriba el nombre del curso, la organización, el código (folio) del curso, y el periodo. Estos datos no podrán ser modificados después.
 
-And a horizontal rule.
+![home](../images/5-2-3.JPG) 
 
-* * *
-
-This is far from comprehensive. To learn more about Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+Posteriormente, llene la estructura, descripción y horarios del curso.
