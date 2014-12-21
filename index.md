@@ -18,7 +18,7 @@ Creemos que Insignias es una buena solución al reto porque:
 
 * Tenemos la *oportunidad* de que las contribuciones de otras personas sigan mejorando a nuestra plataforma. Por ejemplo mientras trabajabamos en Insignias descubrimos que George Washington University también está trabajando en Open Badges. En lugar de reinventar la rueda, nos vamos a poner en contacto con ellos para trabajar en conjunto.
 
-* *Debilidad* Open Edx es muy grande y cubre una mayor cantidad de requerimentos que lo que el reto pide, lo cual provoca que el proceso de instalación y mantenimiento sea más difícil de lo necesario. Sin embargo esto en un futuro ayudará a que los nuevos requerimientos del portal ya estén cubiertos.
+* *Debilidad* Open Edx es muy grande y cubre una mayor cantidad de requerimentos de lo que el reto pide, lo cual provoca que el proceso de instalación y mantenimiento sea más difícil de lo necesario. Sin embargo esto en un futuro ayudará a que los nuevos requerimientos del portal ya estén cubiertos.
 
 * *Amenaza* Nos parece que podría percibirse como una debilidad de nuestra solución el hacer un reuso tan fuerte de software libre en lugar de hacer una programa a la medida del reto. Sin embargo, reinventar lo mismo una y otra vez va en contra de la filosofía del software libre.
 
