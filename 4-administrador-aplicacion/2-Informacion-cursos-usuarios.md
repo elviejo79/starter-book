@@ -6,7 +6,7 @@ Primero escriba sus datos para iniciar sesión, nombre de usuario y contraseña.
 
 ![home](../images/4-1.JPG)
 
-Posteriormente vaya a la sección "Usuarios", aquí podrá añadir o cambiar usuarios. Haga click sobre este botón para ver todos los usarios registrados. 
+Después vaya a la sección "Usuarios", aquí podrá añadir o cambiar usuarios. Haga click sobre este botón para ver todos los usarios registrados. 
 
 ![home](../images/4-3-1.JPG)
 
