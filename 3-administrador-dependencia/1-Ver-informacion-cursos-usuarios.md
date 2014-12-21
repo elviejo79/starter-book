@@ -1,4 +1,4 @@
-# Ver información de cursos y sus cursos (dependencia)
+# Ver información de cursos y sus usuarios (dependencia)
 
 Here are a couple more examples of markdown elements. Here we have a blockquote:
 

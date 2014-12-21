@@ -1,7 +1,13 @@
 # Ver oferta de programas
 
 
-Here are a couple more examples of markdown elements. Here we have a blockquote:
+Cualquier persona, tanto externa como interna de las dependencias de gobienro, pueden ver la oferta de progrmas que se encuentran en la plataforma.
+
+Para poder ver dichos programas, únicamente deben entrar al sitio web y estos aparecerán al inicio en la parte inferior.
+
+![home](../images/1-1.PNG)
+
+:
 
 > Don't think about making art, just get it done. Let everyone else decide if it's good or bad, whether they love it or hate it. While they are deciding, make even more art.
 > Andy Warhol 
