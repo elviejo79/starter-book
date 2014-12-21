@@ -4,7 +4,7 @@ INICIAR SESIÓN
 
 Para iniciar sesión como usuario previamente registrado:
 
-1. Haga click en el botón "Iniciar sesión", en la parte superior derecha, posriormente tendrá acceso a la información de su perfil.
+1. Haga click en el botón "Iniciar sesión", en la parte superior derecha, posteriormente tendrá acceso a la información de su perfil.
 
 ![home](../images/2-1.JPG)
 
