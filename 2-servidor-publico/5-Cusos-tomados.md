@@ -1,6 +1,6 @@
 # Ver cursos tomados
 
-Para visualizar los cursos que se están tomando actualmente y los que se han tomado anteriormentemte, se debe iniciar sesión y en seguida aparecerán dichos cursos:
+Para visualizar los cursos que se están tomando actualmente y los que se han tomado antes, se debe iniciar sesión y en seguida aparecerán dichos cursos:
 
 ![home](../images/1-1.PNG)
 
