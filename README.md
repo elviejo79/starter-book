@@ -4,6 +4,7 @@
 
 * Este repositorio es el manual en línea del sistema Insignias.
 
+* [Video del demo](http://youtu.be/aqNvrZyfH-o)
 
 * Insignias es nuestra propuesta en el reto [ExpertTIC](http://retos.datos.gob.mx/organizaciones/12/retos/9-expertic)
 
