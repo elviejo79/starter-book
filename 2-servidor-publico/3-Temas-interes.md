@@ -1,4 +1,4 @@
-# Seleccionar temas de interés
+# *Seleccionar temas de interés
 
 
 La sección de temás de interés no se agregó en el prototipo. Pero aparecerá después de iniciar sesión dentro de la información del perfil. 

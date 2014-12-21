@@ -1,4 +1,4 @@
-# *Ver cursos tomados
+# Ver cursos tomados
 
 Para visualizar los cursos que se están tomando actualmente y los que se han tomado anteriormentemte, se debe iniciar sesión y en seguida aparecerán dichos cursos:
 
