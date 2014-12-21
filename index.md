@@ -1,6 +1,6 @@
 # Insignias
 
-  Insignias es nuestra propuesta de solución para el reto [ExperTIC](http://retos.datos.gob.mx/retos/9-expertic). El cual nos invita a crear un portal de capacitación para los Servidores Públicos del Gobierno Federal de México.
+  Insignias es nuestra propuesta de solución para el reto [ExperTIC](http://retos.datos.gob.mx/retos/9-expertic). El cual nos invita a crear un portal de capacitación en Tecnologías de la Información para los Servidores Públicos del Gobierno Federal de México.
 
 ## ¿Cómo resuelve el reto?
 
@@ -19,4 +19,13 @@ Creemos que Insignias es una buena solución al reto porque:
 
 * *Amenaza* Nos parece que podría percibirse como una debilidad de nuestra solución el hacer un reuso tan fuerte de software libre en lugar de hacer una programa a la medida del reto. Sin embargo, reinventar lo mismo una y otra vez va en contra de la filosofía del software libre.
 
-## Acciones de Seguimiento
+## Requisitos del reto
+
+1. Un URL al repositorio de código del prototipo funcional, que debe:
+  1. Portar una licencia open source de acuerdo a los "Términos de Software Libre"especificados en la sección de Términos y Condiciones.
+  1.Incluir documentación detallada y clara del proyecto:
+    1. Describir instrucciones claras para ejecutar y validar el funcionamiento del proyecto (i.e. en un README).
+    1. Mostrar un video corto (de un par de minutos mÃ¡ximo), donde se observe el funcionamiento de la solución.
+    1. Un manual de usuario (guÃ­a de uso) detallado.
+  1. Descripción de la solución al reto con extensión máxima de una página.
+1. Presentar documentación para acreditar el monto de facturación del año anterior (última constancia de declaración anual de impuestos).
