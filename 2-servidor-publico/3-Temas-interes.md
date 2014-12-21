@@ -1,14 +1,14 @@
-# Seleccionar temas de interés
+# *Seleccionar temas de interés
 
 
-La sección de temás de interés no se agregó en el prototipo. Pero aparecerá a continuación, después de iniciar sesión dentro de la información del perfil. 
+La sección de temás de interés no se agregó en el prototipo. Pero aparecerá después de iniciar sesión dentro de la información del perfil. 
 
-![home](../images/5-1-1.JPG)
+![home](../images/5-1-1.jpg)
 
 
 SELECCIONAR CURSOS DE INTERÉS
 
-Una vez que se hay registrado como nuevo usuario aparecerán las siguientes  opciones:
+Una vez que se haya registrado como nuevo usuario aparecerán las siguientes  opciones:
 
 10. Cursos activos
 11. Seleccionar cursos de interés
