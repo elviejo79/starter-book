@@ -6,6 +6,9 @@
 
 Insignias es una plataforma libre basada en el LMS *Open Edx*(AGPL) creada por el MIT y Harvard para el hospedaje de cursos masivos y abiertos, y el proyecto *Open Badges(CC)*, que ayuda a visualizar logros.
 
+![OpenEdx + Open Badges = Insignias](https://drive.google.com/file/d/0B5x-DxhduKF5QjNkb2lxMDJlWFk/view?usp=sharing)
+
+
 Insignias otorga premios digitales al completar un curso. Cada insignia tiene metadatos incrustados en la imagen, al ganarla, se agrega al perfil del funcionario, la información es portable, pública y útil para ver el crecimiento profesional y generar una evaluación objetiva y competencia interna.
 
 ## Justificación
