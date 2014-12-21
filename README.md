@@ -1,5 +1,15 @@
-# Starter Book
+# Manual de Insignias del reto ExperTIC.
 
-This is a book project, with a few example pages.
 
-For guidance on what goes in here, see [bitbooks.cc/docs/book-repository](http://bitbooks.cc/docs/book-repository).
+
+* Este repositorio es el manual en línea del sistema Insignias.
+
+
+* Insignias es nuestra propuesta en el reto [ExpertTIC](http://retos.datos.gob.mx/organizaciones/12/retos/9-expertic)
+
+* Para leer el *manual* simplemente entra a: http://elviejo79.github.io/starter-book/
+
+* Para ver el repositorio del código del sistema https://github.com/elviejo79/insignias
+
+
+* Este proyecto es producido por [Responsive Tequila](http://responsivetequila.github.io/#acerca)
