@@ -7,3 +7,10 @@ Para poder ver dichos programas, únicamente debe entrar al sitio web y estos ap
 
 ![home](../images/1-1.PNG)
 
+Para ver más detalles del curso, haga click sobre la imagen y aparecerá automáticamente la información.
+
+Podrá ver una descripción detada, un video introductorio, fecha de inicio, fecha de término, horas dedicadas a la semana, instructores y preguntas frecuentes. 
+
+Para poder registrarse, tiene que iniciar sesión como usuario, es decir, ser funcionario público.
+
+![home](../images/1-2.JPG)
