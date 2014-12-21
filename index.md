@@ -6,7 +6,7 @@
 
 Insignias es una plataforma libre basada en el LMS *Open Edx*(AGPL) creada por el MIT y Harvard para el hospedaje de cursos masivos y abiertos, y el proyecto *Open Badges(CC)*, que ayuda a visualizar logros.
 
-![OpenEdx + Open Badges = Insignias](https://drive.google.com/file/d/0B5x-DxhduKF5QjNkb2lxMDJlWFk/view?usp=sharing)
+![OpenEdx + Open Badges = Insignias](./images/3+logos smaller.jpg)
 
 
 Insignias otorga premios digitales al completar un curso. Cada insignia tiene metadatos incrustados en la imagen, al ganarla, se agrega al perfil del funcionario, la información es portable, pública y útil para ver el crecimiento profesional y generar una evaluación objetiva y competencia interna.
@@ -25,7 +25,7 @@ Creemos que Insignias es una buena solución al reto porque:
 ## Requisitos del reto
 En cada punto se pone la liga que responde al requisito:
 
-* sUn URL al [repositorio de código del prototipo funcional](https://github.com/elviejo79/insignias), que debe:
+* Un URL al [repositorio de código del prototipo funcional](https://github.com/elviejo79/insignias), que debe:
 
 * Portar una [licencia open source](https://github.com/elviejo79/insignias/blob/master/LICENCIA)  de acuerdo a los "Términos de Software Libre" especificados en la sección de Términos y Condiciones.
 * Incluir documentación detallada y clara del proyecto:
