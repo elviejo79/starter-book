@@ -1,25 +1,22 @@
 # Insignias
 
-  Es nuestra propuesta un portal de capacitacióan basado en la plataforma de [Open Edx](http://code.edx.org/) y [Open Badges](http://openbadges.org/)
+  Insignias es nuestra propuesta de solución para el reto [ExperTIC](http://retos.datos.gob.mx/retos/9-expertic). El cual nos invita a crear un portal de capacitación para los Servidores Públicos del Gobierno Federal de México.
 
+## ¿Cómo resuelve el reto?
 
-  Esta implementación permitirá que las habilidades adquiridas a través del portal tengan reconocimiento en el público en general y portabilidad en otros sitios de internet como LinkedIn, Mozilla, etc.
+Insignias es una plataforma libre basada en el LMS *Open Edx*(AGPL) creada por el MIT y Harvard para el hospedaje de cursos masivos y abiertos, y el proyecto *Open Badges(CC)*, que ayuda a visualizar logros.
 
-  Lo cual incrementa el valor de los cursos llevados a través del portal.
+Insignias otorga premios digitales al completar un curso. Cada insignia tiene metadatos incrustados en la imagen, al ganarla, se agrega al perfil del funcionario, la información es portable, pública y útil para ver el crecimiento profesional y generar una evaluación objetiva y competencia interna.
 
+## Justificación
+Creemos que Insignias es una buena solución al reto porque:
 
-## edx
-  Es una plataforma de cursos en línea masivos y abiertos (MOOC) fundada por el MIT y Harvard en mayo de 2012." (wikipedia)
+* Tenemos la *fortaleza* de que Open Edx y Open Badges son plataformas de código abierto que tienen miles de horas de trabajo de ellas y han sido probadas y siguen siendo mejoradas por las mejores universidades del mundo.
 
-  El código de su portal y su Lerning Management System es Software Libre, bajo la licencia AGPL.
+* Tenemos la *oportunidad* de que las contribuciones de otras personas sigan mejorando a nuestra plataforma. Por ejemplo mientras trabajabamos en Insignias descubrimos que George Washington University también está trabajando en Open Badges. En lugar de reinventar la rueda, nos vamos a poner en contacto con ellos para trabajar en conjunto.
 
-## Open Badges
-  El proyecto Open Badges, expide Insignias digitales para reconocer logros y habilidades.
+* *Debilidad* Open Edx es muy grande y cubre una mayar cantidad de requerimentos que lo que el reto pide, sin embargo esto en un futuro ayudará a que los nuevos requerimientos del portal ya estén cubiertos.
 
-  * Difieren de simples imágenes en que contienen metadatos indicando:
-  * Quién expide la Insignia
-  * criterios para merecerla,
-  * Pruebas del trabajo
-  * otra información.
+* *Amenaza* Nos parece que podría percibirse como una debilidad de nuestra solución el hacer un reuso tan fuerte de software libre en lugar de hacer una programa a la medida del reto. Sin embargo, reinventar lo mismo una y otra vez va en contra de la filosofía del software libre.
 
-  Todo está codificado en la imagen misma.
+## Acciones de Seguimiento
