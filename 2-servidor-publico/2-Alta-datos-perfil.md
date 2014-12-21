@@ -1,29 +1,24 @@
 # Subir información de perfil 
 
-Here are a couple more examples of markdown elements. Here we have a blockquote:
+Si nunca ha iniciado sesión, debe registrarse como un nuevo usuario.
 
-> Don't think about making art, just get it done. Let everyone else decide if it's good or bad, whether they love it or hate it. While they are deciding, make even more art.
-> Andy Warhol 
+1. Haga click en la parte superior izquierda en el botón "Registrarse ahora".
+2. También pude dar click en "Iniciar sesión" y seleccionar la opción "¿No está inscrito?".
+![home](../images/2-1-1.JPG)
+![home](../images/2-2.JPG)
 
-> Holii
+3. Ingrese su correo electrónico.
+4. Escriba su nombre completo.
+5. Escriba un nombre de usuario.
+6. Escriba una contraseña.
+7. Indique su grado de estudios, su géner y año de nacimiento.
+8. Escriba su dirección actual.
+9. Indique las razones que lo llevaron a inscribirse (opcional).
+Se enviará  un correo electrónico para verificar que efectivamente dicho correo pertenezca a usted. 
+
+![home](../images/2-3.JPG)
+
+ NOTA: Falta agregar más datos del perfil, como la formación académica, trayectoria laboral y  cursos deseados. Se incluirán en el desarrollo del proyecto.
 
 
-And a numbered list:
-
-1. Numbered Item 1
-2. Numbered Item 2
-3. Numbered Item 3
-
-And a code block (with syntax highlighting).
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-And a horizontal rule.
-
-* * *
-
-This is far from comprehensive. To learn more about Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
