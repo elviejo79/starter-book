@@ -1,29 +1,28 @@
 # Seleccionar temas de interés
 
-Here are a couple more examples of markdown elements. Here we have a blockquote:
 
-> Don't think about making art, just get it done. Let everyone else decide if it's good or bad, whether they love it or hate it. While they are deciding, make even more art.
-> Andy Warhol 
+La sección de temás de interés no se agregó en el prototipo. Pero aparecerá a continuación, después de iniciar sesión dentro de la información del perfil. 
 
-> Holii
+![home](../images/5-1-1.JPG)
 
 
-And a numbered list:
+SELECCIONAR CURSOS DE INTERÉS
 
-1. Numbered Item 1
-2. Numbered Item 2
-3. Numbered Item 3
+Una vez que se hay registrado como nuevo usuario aparecerán las siguientes  opciones:
 
-And a code block (with syntax highlighting).
+10. Cursos activos
+11. Seleccionar cursos de interés
+![home](../images/2-4.JPG)
+![home](../images/2-5.JPG)
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+Al hacer click sobre algún curso en específico aparecerá la información más detallada de dicho curso. 
 
-And a horizontal rule.
+* Descripción
+* Horas
+* Estructura del curso
+* Instructor
+* Preguntas frecuentes
 
-* * *
+Para inscribirse en el curso, haga click sobre el botón "Registrarse en XXXX".
 
-This is far from comprehensive. To learn more about Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+![home](../images/2-6.JPG)

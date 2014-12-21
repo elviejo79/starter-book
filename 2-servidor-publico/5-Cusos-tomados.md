@@ -1,29 +1,11 @@
-# Ver cursos tomados
+# *Ver cursos tomados
 
-Here are a couple more examples of markdown elements. Here we have a blockquote:
+Para visualizar los cursos que se están tomando actualmente y los que se han tomado anteriormentemte, se debe iniciar sesión y en seguida aparecerán dichos cursos:
 
-> Don't think about making art, just get it done. Let everyone else decide if it's good or bad, whether they love it or hate it. While they are deciding, make even more art.
-> Andy Warhol 
+![home](../images/1-1.PNG)
 
-> Holii
+En esa sección de la información del perfil aparecerán los cursos que se están tomando y los que se han tomado previamente. 
 
+![home](../images/5-1.JPG)
 
-And a numbered list:
-
-1. Numbered Item 1
-2. Numbered Item 2
-3. Numbered Item 3
-
-And a code block (with syntax highlighting).
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-And a horizontal rule.
-
-* * *
-
-This is far from comprehensive. To learn more about Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+NOTA: En el desarollo del proyecto se agregará la sección de "Insignias", las cuales  acreditarán el cumplimiento con los cursos tomados. 
