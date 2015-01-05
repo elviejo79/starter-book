@@ -29,7 +29,7 @@ En cada punto se pone la liga que responde al requisito:
 
 * Portar una [licencia open source](https://github.com/elviejo79/insignias/blob/master/LICENCIA)  de acuerdo a los "Términos de Software Libre" especificados en la sección de Términos y Condiciones.
 * Incluir documentación detallada y clara del proyecto:
-  * Describir instrucciones claras para ejecutar y validar el funcionamiento del proyecto (i.e. en un [README](https://github.com/elviejo79/insignias/blob/master/README.md) ).
+  * Describir instrucciones claras para ejecutar y validar el funcionamiento del proyecto (i.e. en un [README](https://raw.githubusercontent.com/elviejo79/insignias/master/README.md) ).
   * [Mostrar un video corto](http://youtu.be/aqNvrZyfH-o) (de un par de minutos mÃ¡ximo), donde se observe el funcionamiento de la solución.
   * [Un manual de usuario](http://elviejo79.github.io/starter-book/) (guía de uso) detallado *Nota: Es este sito que estás leyendo*.
 
